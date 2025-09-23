@@ -1,0 +1,65 @@
+leftnav:
+- identifier: 56949e28-5b43-1629-e21e-902cf1396a4e
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: ac06f5dc-c82a-b3a0-cb86-73d3c54d5831
+  name: Calendar and Notes
+  pageRef: /pages/calendar-and-notes
+  weight: 20
+- identifier: 60b2c196-be77-e326-a65c-ead778a4815e
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights/
+  weight: 30
+- identifier: a370594e-3650-963e-bb62-70f5dc3b68ed
+  name: Class and Lecture Videos
+  pageRef: /pages/class-and-lecture-videos
+  weight: 40
+- identifier: 44c288e3-7478-1e11-c25a-1bafab81fcbe
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 50
+- identifier: 09ded0d2-dbc8-da15-f5d3-605f216c0866
+  name: Final Project
+  pageRef: /pages/final-project/
+  weight: 60
+- identifier: 14e1df4a-fe41-6e1e-a39f-7bb48a5958bf
+  name: Research as the Spirit of the Course
+  pageRef: /pages/instructor-insights/research-as-the-spirit-of-the-course
+  parent: 60b2c196-be77-e326-a65c-ead778a4815e
+  weight: 10
+- identifier: c03eec62-c472-53f8-d010-100a83b91515
+  name: Open-Problem Sessions and Collaboration
+  pageRef: /pages/instructor-insights/open-problem-sessions-and-collaboration
+  parent: 60b2c196-be77-e326-a65c-ead778a4815e
+  weight: 20
+- identifier: 900dce7a-e9bc-4dc7-f3b9-669174979d27
+  name: Inverted Lecture Format in Fall 2012
+  pageRef: /pages/instructor-insights/inverted-lecture-format-in-fall-2012
+  parent: 60b2c196-be77-e326-a65c-ead778a4815e
+  weight: 30
+- identifier: bb556ca9-16bd-4a4b-a9d2-0444d3664e04
+  name: "Other Individuals\u2019 Influences on Course Content"
+  pageRef: /pages/instructor-insights/other-individuals2019-influences-on-course-content
+  parent: 60b2c196-be77-e326-a65c-ead778a4815e
+  weight: 40
+- identifier: 3dfe796a-5fd4-a592-24eb-7f65c19a8114
+  name: Sharing Course Materials
+  pageRef: /pages/instructor-insights/sharing-course-materials
+  parent: 60b2c196-be77-e326-a65c-ead778a4815e
+  weight: 50
+- identifier: 32fd35c0-fa55-4008-a06c-53a76d3614d2
+  name: Lecture Videos
+  pageRef: /video_galleries/lecture-videos
+  parent: a370594e-3650-963e-bb62-70f5dc3b68ed
+  weight: 10
+- identifier: 37055482-7173-46e7-8086-66e81c95f4f9
+  name: Class Videos
+  pageRef: /video_galleries/class-videos
+  parent: a370594e-3650-963e-bb62-70f5dc3b68ed
+  weight: 20
+- identifier: 8fbd5c92-898c-687f-adc5-2d2f99f1ee80
+  name: Sample Project Ideas
+  pageRef: /pages/final-project/sample-project-ideas
+  parent: 09ded0d2-dbc8-da15-f5d3-605f216c0866
+  weight: 10
