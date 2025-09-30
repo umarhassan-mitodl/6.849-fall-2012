@@ -3,6 +3,8 @@ content_type: page
 description: In this section, Prof. Demaine shares his thoughts about sharing course
   materials and describes the ways in which his course materials, available on OCW,
   have been used.
+hide_download: true
+hide_download_original: null
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

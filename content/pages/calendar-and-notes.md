@@ -2,6 +2,8 @@
 content_type: page
 description: 'This section provides the schedule of lecture topics and class activities
   along with associated notes, slides, and videos.   '
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -670,7 +672,7 @@ Video of Class 17
 {{< tdopen >}}
 
 
-_Watch origami documentary_ {{% resource_link "6a36a0f3-0164-45b0-8285-812a2fe03301" "_Between The Folds_" %}}.
+_Watch origami documentary_ [_Between The Folds_](http://www.greenfusefilms.com/).
 
 {{% resource_link 6323d977-898a-6c26-5483-4260b7449509 "Detailed Descriptions of Lecture 18 and Class 18 (PDF)" %}}
 

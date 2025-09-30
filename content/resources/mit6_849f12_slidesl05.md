@@ -4,6 +4,8 @@ description: ''
 file: /courses/6-849-geometric-folding-algorithms-linkages-origami-polyhedra-fall-2012/640f0ba5c19afaef7f71c8c62d346e48_MIT6_849F12_slidesL05.pdf
 file_size: 2387970
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

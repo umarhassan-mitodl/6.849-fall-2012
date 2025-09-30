@@ -4,6 +4,8 @@ description: Prof. Demaine posing open problems
 file: /courses/6-849-geometric-folding-algorithms-linkages-origami-polyhedra-fall-2012/1d692570e6ddf2b6bf17e3197fb0e363_6-849_openProblem.JPG
 file_size: 167067
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: Even in the first lecture video, several open problems were presented alongside
     an overview of the course.

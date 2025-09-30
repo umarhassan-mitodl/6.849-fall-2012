@@ -4,6 +4,8 @@ description: This file contains information regarding class 15 slides.
 file: /courses/6-849-geometric-folding-algorithms-linkages-origami-polyhedra-fall-2012/9b616ef83b993707b8937ca9a7dd9437_MIT6_849F12_slidesC15.pdf
 file_size: 2935632
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

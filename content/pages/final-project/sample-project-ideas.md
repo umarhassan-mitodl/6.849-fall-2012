@@ -12,7 +12,7 @@ title: Sample Project Ideas
 uid: 8fbd5c92-898c-687f-adc5-2d2f99f1ee80
 ---
 
-Below is a list of possible project ideas. The source of the project idea—extracted from {{% resource_link ac06f5dc-c82a-b3a0-cb86-73d3c54d5831 "lecture (L) or class (C) notes" %}}, or {{% resource_link "141e0108-a5f9-445c-8fe4-e6489cd7f8dc" "old (O) lecture notes from Fall 2010" %}}—is noted when applicable.
+Below is a list of possible project ideas. The source of the project idea—extracted from {{% resource_link ac06f5dc-c82a-b3a0-cb86-73d3c54d5831 "lecture (L) or class (C) notes" %}}, or [old (O) lecture notes from Fall 2010](http://courses.csail.mit.edu/6.849/fall10/lectures/)—is noted when applicable.
 
 Design/Build/Art
 ----------------
@@ -51,7 +51,7 @@ C08
 
 
 *   Design a fold-and-cut alphabet, preferably using a small number of simple folds.
-*   Fold-and-cut art à la {{% resource_link "1be1c88f-297a-4afb-bb54-f030783f9d1e" "Peter Callesen" %}}.
+*   Fold-and-cut art à la [Peter Callesen](http://www.petercallesen.com/).
 *   Animate motion for 3D polyhedra flattening.
 
 

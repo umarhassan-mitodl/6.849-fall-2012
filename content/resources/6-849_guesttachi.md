@@ -4,6 +4,8 @@ description: Guest lecturer Tomohiro Tachi and his origami models
 file: /courses/6-849-geometric-folding-algorithms-linkages-origami-polyhedra-fall-2012/d8eb83d78c26632a0a3567d3e84ea6e7_6-849_guestTachi.JPG
 file_size: 120438
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: Guest lecturer Tomohiro Tachi exhibiting several origami models during
     his talk about his area of research.
