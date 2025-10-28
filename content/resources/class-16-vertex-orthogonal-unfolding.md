@@ -4,8 +4,6 @@ description: ''
 end_time: ''
 file: null
 file_size: '143379933'
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
@@ -20,7 +18,8 @@ related_resources_text: 'The following videos were played at the end of the clas
   )
 
 
-  [http://www.youtube.com/watch?v=Y47ZTc3lSvk&list=PLF44ECE2EF13B303D](http://www.youtube.com/watch?v=Y47ZTc3lSvk&list=PLF44ECE2EF13B303D)'
+  {{% resource_link "e253a73f-750d-4a42-a36c-39d6a40a58de" "http://www.youtube.com/watch?v=Y47ZTc3lSvk&list=PLF44ECE2EF13B303D"
+  %}}'
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
