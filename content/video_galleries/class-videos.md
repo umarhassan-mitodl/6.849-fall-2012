@@ -26,4 +26,4 @@ videos:
   - 47cb67d9-d984-0c26-4e6b-fe902bb982f4
   website: 6-849-geometric-folding-algorithms-linkages-origami-polyhedra-fall-2012
 ---
-Students are asked to view the relevant lecture videos, recorded in Fall 2010, prior to attending each class. The lecture videos and class videos correspond numerically (e.g., Lecture 1 before Class 1, Lecture 2 before Class 2, and so on). The lecture and class session videos are also available in an integrated format (synced notes, slides, and video) on [Prof. Demaine’s website for this course](http://courses.csail.mit.edu/6.849/fall12/lectures/).
+Students are asked to view the relevant lecture videos, recorded in Fall 2010, prior to attending each class. The lecture videos and class videos correspond numerically (e.g., Lecture 1 before Class 1, Lecture 2 before Class 2, and so on). The lecture and class session videos are also available in an integrated format (synced notes, slides, and video) on {{% resource_link "8344cc4e-c894-436c-a07a-2e552176399e" "Prof. Demaine’s website for this course" %}}.
